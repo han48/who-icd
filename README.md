@@ -1,7 +1,9 @@
 # WHO ICD
 
 API: https://icd.who.int/icdapi
+
 REGISTER: https://icd.who.int/icdapi/Account/Register
+
 LOGIN: https://icd.who.int/icdapi/Account/Login
 
 Accept term:
